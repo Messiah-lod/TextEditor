@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>Icons/help.png</file>
+        <file>Icons/open.png</file>
+        <file>Icons/save.png</file>
+        <file>Icons/main.png</file>
+        <file>Icons/setings.png</file>
+        <file>Icons/information.png</file>
+        <file>Icons/cancel.png</file>
+        <file>Icons/find.png</file>
+        <file>Icons/print.png</file>
+        <file>Icons/031-type.png</file>
+        <file>Icons/045-align-left-1.png</file>
+        <file>Icons/046-align-center-1.png</file>
+        <file>Icons/047-right-alignment-1.png</file>
+        <file>Icons/061-highlighter.png</file>
+    </qresource>
+    <qresource prefix="/Txt">
+        <file>readme.txt</file>
+    </qresource>
+    <qresource prefix="/translator">
+        <file>RU_tu.qm</file>
+        <file>qtbase_ru.qm</file>
+    </qresource>
+</RCC>
